@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test-ci": "npx playwright test tests/example.spec.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ASADUZZAMAN-NOOR-SELISE/testActionRepo.git"
