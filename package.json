@@ -1,0 +1,23 @@
+{
+  "name": "testactionrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASADUZZAMAN-NOOR-SELISE/testActionRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ASADUZZAMAN-NOOR-SELISE/testActionRepo/issues"
+  },
+  "homepage": "https://github.com/ASADUZZAMAN-NOOR-SELISE/testActionRepo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
